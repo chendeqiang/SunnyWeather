@@ -4,6 +4,7 @@ import com.google.gson.annotations.SerializedName
 
 /**
  * Created by deqiangchen on 2024/10/21.
+ * 数据模型
  */
 
 data class PlaceResponse(val status:String,val places:List<Place>)
