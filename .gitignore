@@ -6,7 +6,7 @@ build/
 local.properties
 
 # keystore configuration file
-keystore.properties
+#keystore.properties
 
 # Log/OS Files
 *.log
